@@ -1,0 +1,28 @@
+[
+  {
+    "degree": "Master of Science in Computer Science",
+    "institution": "Stanford University",
+    "location": "Stanford, CA",
+    "startDate": "2018",
+    "endDate": "2020",
+    "description": "Specialized in Artificial Intelligence and Machine Learning. Thesis on 'Deep Learning Approaches for Natural Language Processing'.",
+    "achievements": [
+      "GPA: 3.9/4.0",
+      "Research Assistant in NLP Lab",
+      "Teaching Assistant for Data Structures and Algorithms"
+    ]
+  },
+  {
+    "degree": "Bachelor of Science in Computer Engineering",
+    "institution": "University of California, Berkeley",
+    "location": "Berkeley, CA",
+    "startDate": "2014",
+    "endDate": "2018",
+    "description": "Focused on software engineering and computer architecture. Senior project on distributed systems.",
+    "achievements": [
+      "Dean's List: 7 semesters",
+      "Undergraduate Research in Distributed Systems",
+      "President of Computer Science Club"
+    ]
+  }
+]
