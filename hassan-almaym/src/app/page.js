@@ -1,7 +1,7 @@
 'use client'
 
 import { useRouter } from "next/navigation";
-export default function redirect() {
+export default function Redirect() {
     const router = useRouter();
     router.push('/en');
     return null;
