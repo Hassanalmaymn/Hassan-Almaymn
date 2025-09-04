@@ -39,9 +39,9 @@ export default async function Home() {
   const { personalInfo, projects, skills, education, experience } = await getData();
   
   return (
-    <div className="min-h-screen bg-white">
+    <div className="min-h-screen bg-white w-full overflow-x-hidden">
       <Header personalInfo={personalInfo} />
-      <main>
+      <main className="w-full">
         <Hero personalInfo={personalInfo} />
         <Experience experiences={experience} />
         <Projects projects={projects} />
