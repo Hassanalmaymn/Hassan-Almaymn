@@ -1,14 +1,41 @@
+'use client'
 import React from 'react';
+import { motion } from 'framer-motion';
+import AnimatedSection from './AnimatedSection';
 
 const Experience = ({ experiences }) => {
+  const itemVariants = {
+    hidden: { opacity: 0, x: -20 },
+    visible: { opacity: 1, x: 0 }
+  };
+
   return (
-    <section id="experience" className="py-12 sm:py-16 md:py-20">
+    <AnimatedSection id="experience" className="py-12 sm:py-16 md:py-20">
       <div className="container mx-auto px-4">
-        <h2 className="text-2xl sm:text-3xl font-bold text-center text-gray-800 mb-8 sm:mb-12">Work Experience</h2>
+        <motion.h2 
+          className="text-2xl sm:text-3xl font-bold text-center text-gray-800 mb-8 sm:mb-12"
+          initial={{ opacity: 0, y: -20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.5 }}
+        >
+          Work Experience
+        </motion.h2>
         <div className="max-w-4xl mx-auto">
           {experiences.map((experience, index) => (
-            <div key={index} className="mb-8 sm:mb-12 relative pl-6 sm:pl-8 border-l-2 border-gray-200">
-              <div className="absolute -left-1.5 sm:-left-2 top-0 w-3 h-3 sm:w-4 sm:h-4 rounded-full bg-blue-600"></div>
+            <motion.div 
+              key={index} 
+              className="mb-8 sm:mb-12 relative pl-6 sm:pl-8 border-l-2 border-gray-200"
+              variants={itemVariants}
+              custom={index}
+              transition={{ duration: 0.5, delay: index * 0.1 }}
+              whileHover={{ x: 5, transition: { duration: 0.2 } }}
+            >
+              <motion.div 
+                className="absolute -left-1.5 sm:-left-2 top-0 w-3 h-3 sm:w-4 sm:h-4 rounded-full bg-blue-600"
+                initial={{ scale: 0 }}
+                animate={{ scale: 1 }}
+                transition={{ duration: 0.3, delay: index * 0.1 + 0.2 }}
+              ></motion.div>
               <div className="mb-1 sm:mb-2">
                 <span className="text-xs sm:text-sm font-medium text-blue-600">{experience.startDate} - {experience.endDate}</span>
               </div>
@@ -24,11 +51,11 @@ const Experience = ({ experiences }) => {
                   <li key={respIndex} className="pl-1">{responsibility}</li>
                 ))}
               </ul>
-            </div>
+            </motion.div>
           ))}
         </div>
       </div>
-    </section>
+    </AnimatedSection>
   );
 };
 

@@ -54,7 +54,7 @@ export default async function Home({ params }) {
   
   return (
     <div className="min-h-screen bg-white w-full overflow-x-hidden">
-      <Header personalInfo={personalInfo} ui={ui} />
+      <Header personalInfo={personalInfo} />
       <main className="w-full">
         <Hero personalInfo={personalInfo} />
         <Experience experiences={experience} />
