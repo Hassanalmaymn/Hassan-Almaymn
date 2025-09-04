@@ -1,0 +1,94 @@
+{
+  "en": {
+    "navigation": {
+      "home": "Home",
+      "about": "About",
+      "experience": "Experience",
+      "projects": "Projects",
+      "skills": "Skills",
+      "education": "Education",
+      "contact": "Contact"
+    },
+    "buttons": {
+      "viewProject": "View Project",
+      "viewGithub": "View Code",
+      "sendMessage": "Send Message",
+      "download": "Download CV",
+      "readMore": "Read More",
+      "submit": "Submit",
+      "cancel": "Cancel"
+    },
+    "contactForm": {
+      "title": "Get In Touch",
+      "subtitle": "Feel free to reach out to me for any inquiries or opportunities.",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "location": "Location",
+      "subject": "Subject",
+      "message": "Message",
+      "namePlaceholder": "Your Name",
+      "emailPlaceholder": "Your Email",
+      "subjectPlaceholder": "Message Subject",
+      "messagePlaceholder": "Your Message"
+    },
+    "footer": {
+      "copyright": "© 2023 All Rights Reserved",
+      "madeWith": "Made with Next.js"
+    },
+    "messages": {
+      "success": "Success!",
+      "error": "Error!",
+      "messageSent": "Your message has been sent successfully.",
+      "messageError": "There was an error sending your message. Please try again.",
+      "requiredField": "This field is required.",
+      "invalidEmail": "Please enter a valid email address."
+    }
+  },
+  "ar": {
+    "navigation": {
+      "home": "الرئيسية",
+      "about": "نبذة عني",
+      "experience": "الخبرات",
+      "projects": "المشاريع",
+      "skills": "المهارات",
+      "education": "التعليم",
+      "contact": "اتصل بي"
+    },
+    "buttons": {
+      "viewProject": "عرض المشروع",
+      "viewGithub": "عرض الكود",
+      "sendMessage": "إرسال الرسالة",
+      "download": "تحميل السيرة الذاتية",
+      "readMore": "قراءة المزيد",
+      "submit": "إرسال",
+      "cancel": "إلغاء"
+    },
+    "contactForm": {
+      "title": "تواصل معي",
+      "subtitle": "لا تتردد في التواصل معي لأي استفسارات أو فرص.",
+      "name": "الاسم",
+      "email": "البريد الإلكتروني",
+      "phone": "الهاتف",
+      "location": "الموقع",
+      "subject": "الموضوع",
+      "message": "الرسالة",
+      "namePlaceholder": "اسمك",
+      "emailPlaceholder": "بريدك الإلكتروني",
+      "subjectPlaceholder": "موضوع الرسالة",
+      "messagePlaceholder": "رسالتك"
+    },
+    "footer": {
+      "copyright": "© 2023 جميع الحقوق محفوظة",
+      "madeWith": "تم التطوير باستخدام Next.js"
+    },
+    "messages": {
+      "success": "تم بنجاح!",
+      "error": "خطأ!",
+      "messageSent": "تم إرسال رسالتك بنجاح.",
+      "messageError": "حدث خطأ أثناء إرسال رسالتك. يرجى المحاولة مرة أخرى.",
+      "requiredField": "هذا الحقل مطلوب.",
+      "invalidEmail": "يرجى إدخال عنوان بريد إلكتروني صحيح."
+    }
+  }
+}

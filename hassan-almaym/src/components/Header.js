@@ -2,7 +2,7 @@
 import React, { useState } from 'react';
 import Link from 'next/link';
 
-const Header = ({ personalInfo }) => {
+const Header = ({ personalInfo, ui }) => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   const toggleMobileMenu = () => {
@@ -10,12 +10,12 @@ const Header = ({ personalInfo }) => {
   };
 
   const navLinks = [
-    { href: "#about", label: "About" },
-    { href: "#experience", label: "Experience" },
-    { href: "#projects", label: "Projects" },
-    { href: "#skills", label: "Skills" },
-    { href: "#education", label: "Education" },
-    { href: "#contact", label: "Contact" },
+    { href: "#about", label: ui?.navigation?.about || "About" },
+    { href: "#experience", label: ui?.navigation?.experience || "Experience" },
+    { href: "#projects", label: ui?.navigation?.projects || "Projects" },
+    { href: "#skills", label: ui?.navigation?.skills || "Skills" },
+    { href: "#education", label: ui?.navigation?.education || "Education" },
+    { href: "#contact", label: ui?.navigation?.contact || "Contact" },
   ];
 
   return (

@@ -1,26 +1,54 @@
 {
-  "name": "Hassan Almaymn",
-  "title": "Software Engineer",
-  "bio": "Passionate software engineer with expertise in web development and a strong focus on creating user-friendly applications.",
-  "email": "hassan.almaymn@example.com",
-  "phone": "+1 (123) 456-7890",
-  "location": "San Francisco, CA",
-  "social": [
-    {
-      "platform": "LinkedIn",
-      "url": "https://linkedin.com/in/hassan-almaymn",
-      "icon": "linkedin"
-    },
-    {
-      "platform": "GitHub",
-      "url": "https://github.com/hassan-almaymn",
-      "icon": "github"
-    },
-    {
-      "platform": "Twitter",
-      "url": "https://twitter.com/hassan_almaymn",
-      "icon": "twitter"
-    }
-  ],
-  "profileImage": "/images/profile.jpg.svg"
+  "en": {
+    "name": "Hassan Almaymn",
+    "title": "Software Engineer",
+    "bio": "Passionate software engineer with expertise in web development and a strong focus on creating user-friendly applications.",
+    "email": "hassan.almaymn@example.com",
+    "phone": "+1 (123) 456-7890",
+    "location": "San Francisco, CA",
+    "social": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com/in/hassan-almaymn",
+        "icon": "linkedin"
+      },
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/hassan-almaymn",
+        "icon": "github"
+      },
+      {
+        "platform": "Twitter",
+        "url": "https://twitter.com/hassan_almaymn",
+        "icon": "twitter"
+      }
+    ],
+    "profileImage": "/images/profile.jpg.svg"
+  },
+  "ar": {
+    "name": "حسن الميمن",
+    "title": "مهندس برمجيات",
+    "bio": "مهندس برمجيات شغوف بخبرة في تطوير الويب وتركيز قوي على إنشاء تطبيقات سهلة الاستخدام.",
+    "email": "hassan.almaymn@example.com",
+    "phone": "+1 (123) 456-7890",
+    "location": "سان فرانسيسكو، كاليفورنيا",
+    "social": [
+      {
+        "platform": "لينكد إن",
+        "url": "https://linkedin.com/in/hassan-almaymn",
+        "icon": "linkedin"
+      },
+      {
+        "platform": "جيثب",
+        "url": "https://github.com/hassan-almaymn",
+        "icon": "github"
+      },
+      {
+        "platform": "تويتر",
+        "url": "https://twitter.com/hassan_almaymn",
+        "icon": "twitter"
+      }
+    ],
+    "profileImage": "/images/profile.jpg.svg"
+  }
 }

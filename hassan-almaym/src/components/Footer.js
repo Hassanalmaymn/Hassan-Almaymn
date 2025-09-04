@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Footer = ({ personalInfo }) => {
+const Footer = ({ personalInfo, ui }) => {
   const currentYear = new Date().getFullYear();
   
   return (
@@ -27,7 +27,8 @@ const Footer = ({ personalInfo }) => {
           </div>
         </div>
         <div className="mt-6 sm:mt-8 pt-6 sm:pt-8 border-t border-gray-700 text-center text-gray-400">
-          <p className="text-xs sm:text-sm">&copy; {currentYear} {personalInfo.name}. All rights reserved.</p>
+          <p className="text-xs sm:text-sm">{ui?.footer?.copyright?.replace('2023', currentYear) || `© ${currentYear} ${personalInfo.name}. All rights reserved.`}</p>
+          <p className="text-xs sm:text-sm mt-2">{ui?.footer?.madeWith || 'Made with Next.js'}</p>
         </div>
       </div>
     </footer>

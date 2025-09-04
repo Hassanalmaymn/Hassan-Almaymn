@@ -1,28 +1,58 @@
-[
-  {
-    "degree": "Master of Science in Computer Science",
-    "institution": "Stanford University",
-    "location": "Stanford, CA",
-    "startDate": "2018",
-    "endDate": "2020",
-    "description": "Specialized in Artificial Intelligence and Machine Learning. Thesis on 'Deep Learning Approaches for Natural Language Processing'.",
-    "achievements": [
-      "GPA: 3.9/4.0",
-      "Research Assistant in NLP Lab",
-      "Teaching Assistant for Data Structures and Algorithms"
-    ]
-  },
-  {
-    "degree": "Bachelor of Science in Computer Engineering",
-    "institution": "University of California, Berkeley",
-    "location": "Berkeley, CA",
-    "startDate": "2014",
-    "endDate": "2018",
-    "description": "Focused on software engineering and computer architecture. Senior project on distributed systems.",
-    "achievements": [
-      "Dean's List: 7 semesters",
-      "Undergraduate Research in Distributed Systems",
-      "President of Computer Science Club"
-    ]
-  }
-]
+{
+  "en": [
+    {
+      "degree": "Master of Science in Computer Science",
+      "institution": "Stanford University",
+      "location": "Stanford, CA",
+      "startDate": "2018",
+      "endDate": "2020",
+      "description": "Specialized in Artificial Intelligence and Machine Learning. Thesis on 'Deep Learning Approaches for Natural Language Processing'.",
+      "achievements": [
+        "GPA: 3.9/4.0",
+        "Research Assistant in NLP Lab",
+        "Teaching Assistant for Data Structures and Algorithms"
+      ]
+    },
+    {
+      "degree": "Bachelor of Science in Computer Engineering",
+      "institution": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "startDate": "2014",
+      "endDate": "2018",
+      "description": "Focused on software engineering and computer architecture. Senior project on distributed systems.",
+      "achievements": [
+        "Dean's List: 7 semesters",
+        "Undergraduate Research in Distributed Systems",
+        "President of Computer Science Club"
+      ]
+    }
+  ],
+  "ar": [
+    {
+      "degree": "ماجستير العلوم في علوم الحاسوب",
+      "institution": "جامعة ستانفورد",
+      "location": "ستانفورد، كاليفورنيا",
+      "startDate": "2018",
+      "endDate": "2020",
+      "description": "تخصص في الذكاء الاصطناعي والتعلم الآلي. أطروحة حول 'نهج التعلم العميق لمعالجة اللغة الطبيعية'.",
+      "achievements": [
+        "المعدل التراكمي: 3.9/4.0",
+        "مساعد باحث في مختبر معالجة اللغة الطبيعية",
+        "مساعد تدريس لهياكل البيانات والخوارزميات"
+      ]
+    },
+    {
+      "degree": "بكالوريوس العلوم في هندسة الحاسوب",
+      "institution": "جامعة كاليفورنيا، بيركلي",
+      "location": "بيركلي، كاليفورنيا",
+      "startDate": "2014",
+      "endDate": "2018",
+      "description": "التركيز على هندسة البرمجيات وبنية الحاسوب. مشروع التخرج في الأنظمة الموزعة.",
+      "achievements": [
+        "قائمة العميد: 7 فصول دراسية",
+        "بحث جامعي في الأنظمة الموزعة",
+        "رئيس نادي علوم الحاسوب"
+      ]
+    }
+  ]
+}
