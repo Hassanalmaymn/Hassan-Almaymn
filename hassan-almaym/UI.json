@@ -43,6 +43,16 @@
       "messageError": "There was an error sending your message. Please try again.",
       "requiredField": "This field is required.",
       "invalidEmail": "Please enter a valid email address."
+    },
+    "chat": {
+      "title": "Chat with me",
+      "openChat": "Open Chat",
+      "closeChat": "Close",
+      "placeholder": "Type your message here...",
+      "send": "Send",
+      "welcomeMessage": "Hi there! How can I help you today?",
+      "botName": "Assistant",
+      "userLabel": "You"
     }
   },
   "ar": {
@@ -89,6 +99,16 @@
       "messageError": "حدث خطأ أثناء إرسال رسالتك. يرجى المحاولة مرة أخرى.",
       "requiredField": "هذا الحقل مطلوب.",
       "invalidEmail": "يرجى إدخال عنوان بريد إلكتروني صحيح."
+    },
+    "chat": {
+      "title": "دردش معي",
+      "openChat": "فتح الدردشة",
+      "closeChat": "إغلاق",
+      "placeholder": "اكتب رسالتك هنا...",
+      "send": "إرسال",
+      "welcomeMessage": "مرحباً! كيف يمكنني مساعدتك اليوم؟",
+      "botName": "المساعد",
+      "userLabel": "أنت"
     }
   }
 }

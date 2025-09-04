@@ -9,6 +9,7 @@ import Skills from '@/components/Skills';
 import Education from '@/components/Education';
 import Contact from '@/components/Contact';
 import Footer from '@/components/Footer';
+import Chat from '@/components/Chat';
 
 async function getData(locale = 'en') {
   const projectRoot = process.cwd();
@@ -47,9 +48,9 @@ async function getData(locale = 'en') {
 }
 
 export default async function Home({ params }) {
-  // Ensure params is properly awaited
-  const locale = params?.locale || 'en';
-  const { personalInfo, projects, skills, education, experience, ui } = await getData(locale);
+  // Ensure params is properly awaited and accessed safely
+  const data = await getData(params?.locale || 'en');
+  const { personalInfo, projects, skills, education, experience, ui } = data;
   
   return (
     <div className="min-h-screen bg-white w-full overflow-x-hidden">
@@ -63,6 +64,7 @@ export default async function Home({ params }) {
         <Contact personalInfo={personalInfo} ui={ui} />
       </main>
       <Footer personalInfo={personalInfo} ui={ui} />
+      <Chat ui={ui} />
     </div>
   );
 }
