@@ -33,8 +33,7 @@
       "messagePlaceholder": "Your Message"
     },
     "footer": {
-      "copyright": "© 2023 All Rights Reserved",
-      "madeWith": "Made with Next.js"
+      "copyright": "© 2025 All Rights Reserved"
     },
     "messages": {
       "success": "Success!",
@@ -58,12 +57,12 @@
   "ar": {
     "navigation": {
       "home": "الرئيسية",
-      "about": "نبذة عني",
+      "about": "من أنا",
       "experience": "الخبرات",
       "projects": "المشاريع",
       "skills": "المهارات",
       "education": "التعليم",
-      "contact": "اتصل بي"
+      "contact": "تواصل معي"
     },
     "buttons": {
       "viewProject": "عرض المشروع",
@@ -89,8 +88,7 @@
       "messagePlaceholder": "رسالتك"
     },
     "footer": {
-      "copyright": "© 2023 جميع الحقوق محفوظة",
-      "madeWith": "تم التطوير باستخدام Next.js"
+      "copyright": "© 2025 جميع الحقوق محفوظة"
     },
     "messages": {
       "success": "تم بنجاح!",

@@ -13,34 +13,6 @@
         "Reduced application load time by 40% through performance optimizations",
         "Implemented CI/CD pipeline using GitHub Actions and Docker"
       ]
-    },
-    {
-      "title": "Software Engineer",
-      "company": "DataViz Solutions",
-      "location": "Palo Alto, CA",
-      "startDate": "2018",
-      "endDate": "2020",
-      "description": "Worked on a data visualization platform for business intelligence.",
-      "responsibilities": [
-        "Developed interactive dashboards using Vue.js and D3.js",
-        "Built RESTful APIs using Express.js and PostgreSQL",
-        "Collaborated with UX designers to improve user experience",
-        "Participated in agile development process with bi-weekly sprints"
-      ]
-    },
-    {
-      "title": "Software Development Intern",
-      "company": "Global Tech Solutions",
-      "location": "San Jose, CA",
-      "startDate": "Summer 2017",
-      "endDate": "Summer 2017",
-      "description": "Internship focused on web application development.",
-      "responsibilities": [
-        "Assisted in developing a customer portal using React and Firebase",
-        "Created automated tests using Jest and React Testing Library",
-        "Participated in code reviews and daily stand-up meetings",
-        "Documented API endpoints for developer reference"
-      ]
     }
   ],
   "ar": [
@@ -56,34 +28,6 @@
         "قيادة فريق من 5 مطورين، وإدارة تخطيط السبرنت ومراجعات الكود",
         "تقليل وقت تحميل التطبيق بنسبة 40% من خلال تحسينات الأداء",
         "تنفيذ خط أنابيب CI/CD باستخدام GitHub Actions و Docker"
-      ]
-    },
-    {
-      "title": "مهندس برمجيات",
-      "company": "داتا فيز سوليوشنز",
-      "location": "بالو ألتو، كاليفورنيا",
-      "startDate": "2018",
-      "endDate": "2020",
-      "description": "عملت على منصة تصور البيانات لذكاء الأعمال.",
-      "responsibilities": [
-        "تطوير لوحات معلومات تفاعلية باستخدام فيو.جي إس و D3.js",
-        "بناء واجهات برمجة تطبيقات RESTful باستخدام إكسبرس.جي إس وبوستجري إس كيو إل",
-        "التعاون مع مصممي تجربة المستخدم لتحسين تجربة المستخدم",
-        "المشاركة في عملية التطوير أجايل مع سبرنتات كل أسبوعين"
-      ]
-    },
-    {
-      "title": "متدرب تطوير البرمجيات",
-      "company": "جلوبال تك سوليوشنز",
-      "location": "سان خوسيه، كاليفورنيا",
-      "startDate": "صيف 2017",
-      "endDate": "صيف 2017",
-      "description": "تدريب ركز على تطوير تطبيقات الويب.",
-      "responsibilities": [
-        "المساعدة في تطوير بوابة العملاء باستخدام رياكت وفايربيس",
-        "إنشاء اختبارات آلية باستخدام جيست ومكتبة اختبار رياكت",
-        "المشاركة في مراجعات الكود واجتماعات الوقوف اليومية",
-        "توثيق نقاط نهاية واجهة برمجة التطبيقات لمرجع المطور"
       ]
     }
   ]

@@ -1,58 +1,22 @@
 {
   "en": [
     {
-      "degree": "Master of Science in Computer Science",
-      "institution": "Stanford University",
-      "location": "Stanford, CA",
-      "startDate": "2018",
-      "endDate": "2020",
-      "description": "Specialized in Artificial Intelligence and Machine Learning. Thesis on 'Deep Learning Approaches for Natural Language Processing'.",
-      "achievements": [
-        "GPA: 3.9/4.0",
-        "Research Assistant in NLP Lab",
-        "Teaching Assistant for Data Structures and Algorithms"
-      ]
-    },
-    {
-      "degree": "Bachelor of Science in Computer Engineering",
-      "institution": "University of California, Berkeley",
-      "location": "Berkeley, CA",
-      "startDate": "2014",
-      "endDate": "2018",
-      "description": "Focused on software engineering and computer architecture. Senior project on distributed systems.",
-      "achievements": [
-        "Dean's List: 7 semesters",
-        "Undergraduate Research in Distributed Systems",
-        "President of Computer Science Club"
-      ]
+      "degree": "Bachelor of Science in Software engineering",
+      "institution": "King Saud University",
+      "location": "Riyadh, Saudi Arabia",
+      "startDate": "21/08/2021",
+      "endDate": "14/08/2025",
+      "description": "The Software Engineering major at King Saud University (KSU) equips students with the knowledge and skills to design, develop, and maintain high-quality software systems. The program emphasizes both theoretical foundations and practical applications, covering areas such as programming, software design, databases, operating systems, project management, and software quality assurance. Students gain hands-on experience through labs, projects, and internships that prepare them to work in diverse fields, including web development, mobile applications, cloud computing, and enterprise systems. Graduates are qualified to contribute to the software industry with strong problem-solving abilities, teamwork skills, and adherence to international engineering standards.The Software Engineering major at King Saud University (KSU) equips students with the knowledge and skills to design, develop, and maintain high-quality software systems. The program emphasizes both theoretical foundations and practical applications, covering areas such as programming, software design, databases, operating systems, project management, and software quality assurance. Students gain hands-on experience through labs, projects, and internships that prepare them to work in diverse fields, including web development, mobile applications, cloud computing, and enterprise systems. Graduates are qualified to contribute to the software industry with strong problem-solving abilities, teamwork skills, and adherence to international engineering standards.The Software Engineering major at King Saud University (KSU) equips students with the knowledge and skills to design, develop, and maintain high-quality software systems. The program emphasizes both theoretical foundations and practical applications, covering areas such as programming, software design, databases, operating systems, project management, and software quality assurance. Students gain hands-on experience through labs, projects, and internships that prepare them to work in diverse fields, including web development, mobile applications, cloud computing, and enterprise systems. Graduates are qualified to contribute to the software industry with strong problem-solving abilities, teamwork skills, and adherence to international engineering standards."
     }
   ],
   "ar": [
     {
-      "degree": "ماجستير العلوم في علوم الحاسوب",
-      "institution": "جامعة ستانفورد",
-      "location": "ستانفورد، كاليفورنيا",
-      "startDate": "2018",
-      "endDate": "2020",
-      "description": "تخصص في الذكاء الاصطناعي والتعلم الآلي. أطروحة حول 'نهج التعلم العميق لمعالجة اللغة الطبيعية'.",
-      "achievements": [
-        "المعدل التراكمي: 3.9/4.0",
-        "مساعد باحث في مختبر معالجة اللغة الطبيعية",
-        "مساعد تدريس لهياكل البيانات والخوارزميات"
-      ]
-    },
-    {
-      "degree": "بكالوريوس العلوم في هندسة الحاسوب",
-      "institution": "جامعة كاليفورنيا، بيركلي",
-      "location": "بيركلي، كاليفورنيا",
-      "startDate": "2014",
-      "endDate": "2018",
-      "description": "التركيز على هندسة البرمجيات وبنية الحاسوب. مشروع التخرج في الأنظمة الموزعة.",
-      "achievements": [
-        "قائمة العميد: 7 فصول دراسية",
-        "بحث جامعي في الأنظمة الموزعة",
-        "رئيس نادي علوم الحاسوب"
-      ]
+      "degree": "بكالوريوس العلوم في هندسة البرمجيان",
+      "institution": "جامعة الملك سعود",
+      "location": "الرياض السعودية",
+      "startDate": "21/08/2021",
+      "endDate": "14/08/2025",
+      "description": "تخصص هندسة البرمجيات في جامعة الملك سعود يهدف إلى تزويد الطلاب بالمعرفة والمهارات اللازمة لتصميم وتطوير وصيانة أنظمة برمجية عالية الجودة. يركز البرنامج على الأسس النظرية والتطبيقات العملية، ويغطي مجالات مثل البرمجة، وتصميم البرمجيات، وقواعد البيانات، وأنظمة التشغيل، وإدارة المشاريع، وضمان جودة البرمجيات. كما يكتسب الطلاب خبرة عملية من خلال المختبرات والمشاريع والتدريب الميداني، مما يؤهلهم للعمل في مجالات متنوعة مثل تطوير الويب، وتطبيقات الجوال، والحوسبة السحابية، والأنظمة المؤسسية. ويتميز خريجو البرنامج بقدرتهم على حل المشكلات والعمل الجماعي والالتزام بالمعايير الهندسية العالمية."
     }
   ]
 }

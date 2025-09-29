@@ -8,45 +8,9 @@
       "url": "https://example.com/ecommerce",
       "github": "https://github.com/hassan-almaymn/ecommerce",
       "featured": true
-    },
-    {
-      "title": "Task Management App",
-      "description": "A collaborative task management application with real-time updates and team collaboration features.",
-      "technologies": ["Vue.js", "Firebase", "Tailwind CSS"],
-      "image": "/images/projects/taskmanager.jpg.svg",
-      "url": "https://example.com/taskmanager",
-      "github": "https://github.com/hassan-almaymn/taskmanager",
-      "featured": true
-    },
-    {
-      "title": "Weather Dashboard",
-      "description": "A weather dashboard that displays current and forecasted weather data for multiple locations.",
-      "technologies": ["JavaScript", "OpenWeather API", "Chart.js"],
-      "image": "/images/projects/weather.jpg.svg",
-      "url": "https://example.com/weather",
-      "github": "https://github.com/hassan-almaymn/weather",
-      "featured": false
     }
   ],
   "ar": [
-    {
-      "title": "منصة التجارة الإلكترونية",
-      "description": "منصة تجارة إلكترونية متكاملة مع مصادقة المستخدم وإدارة المنتجات ومعالجة الدفع.",
-      "technologies": ["رياكت", "نود.جي إس", "مونجو دي بي", "واجهة سترايب"],
-      "image": "/images/projects/ecommerce.jpg.svg",
-      "url": "https://example.com/ecommerce",
-      "github": "https://github.com/hassan-almaymn/ecommerce",
-      "featured": true
-    },
-    {
-      "title": "تطبيق إدارة المهام",
-      "description": "تطبيق إدارة مهام تعاوني مع تحديثات في الوقت الفعلي وميزات تعاون الفريق.",
-      "technologies": ["فيو.جي إس", "فايربيس", "تيلويند سي إس إس"],
-      "image": "/images/projects/taskmanager.jpg.svg",
-      "url": "https://example.com/taskmanager",
-      "github": "https://github.com/hassan-almaymn/taskmanager",
-      "featured": true
-    },
     {
       "title": "لوحة معلومات الطقس",
       "description": "لوحة معلومات الطقس التي تعرض بيانات الطقس الحالية والمتوقعة لمواقع متعددة.",
